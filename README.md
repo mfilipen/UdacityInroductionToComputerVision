@@ -1,2 +1,2 @@
-#Inroduction to computer vision (Udacity)
+# Inroduction to computer vision (Udacity)
 Some activities from online course
